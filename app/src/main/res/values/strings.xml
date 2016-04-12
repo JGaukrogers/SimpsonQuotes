@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simpson Quotes</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="next_sentence_butt">Next</string>
+    <string name="rand_sentence_butt">Random</string>
+    <string name="sentences"> </string>
+</resources>
